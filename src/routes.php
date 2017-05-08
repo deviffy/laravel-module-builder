@@ -4,4 +4,4 @@
  */
 
 Route::get('module-builder', 
-    'deviffy\laravel-module-builder\Controllers\ModuleBuilderController@index');
+    'Deviffy\ModuleBuilder\Controllers\ModuleBuilderController@index');
