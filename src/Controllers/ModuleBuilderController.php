@@ -1,5 +1,5 @@
 <?php
-namespace Deviffy\ModuleBuilder;
+namespace Deviffy\ModuleBuilder\Controllers;
 
 use App\Http\Controllers\Controller;
 

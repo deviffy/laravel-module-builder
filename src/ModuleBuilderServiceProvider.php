@@ -1,6 +1,5 @@
 <?php
-
-namespace App\Providers;
+namespace Deviffy\ModuleBuilder;
 
 use Illuminate\Support\ServiceProvider;
 
